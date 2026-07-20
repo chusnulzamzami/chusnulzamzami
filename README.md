@@ -29,7 +29,7 @@
 ### <div align="center">🌐 Networking
 
 <div align="center"> <a href="#"><img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge"/></a></div>
+<a href="#"><img src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge"/></a></div> <br/>
 
 
 
@@ -39,7 +39,7 @@ Saya adalah seorang Artificial Intelligence Engineer yang berfokus pada pengemba
 
 Berpengalaman dalam Prompt Engineering (ChatGPT & Gemini AI) serta membangun sistem otomatisasi menggunakan n8n untuk meningkatkan efisiensi dan skalabilitas sistem.
 
-💡 Passionate dalam mengubah ide menjadi solusi nyata menggunakan AI.
+💡 Passionate dalam mengubah ide menjadi solusi nyata menggunakan AI.<br/>
 
 
 
@@ -53,14 +53,14 @@ Engagement meningkat hingga 90%
 Mengembangkan solusi berbasis Generative AI & automation
 Meningkatkan efisiensi kerja hingga 90%
 Membangun workflow automation dengan keberhasilan 80%
-Meningkatkan pemahaman AI tim hingga 85%
+Meningkatkan pemahaman AI tim hingga 85%  <br/>
 
 
 ## 🎓 Education
 
 Universitas Syiah Kuala (USK)
 Diploma Manajemen Informatika (2022 – 2025)
-IPK: 3.72 / 4.00
+IPK: 3.72 / 4.00 <br/>
 
 
 ## 🚀 Core Expertise
@@ -74,14 +74,14 @@ API Integration & System Design
 ⚡ Efisiensi meningkat hingga 90%
 🔁 Automation success rate hingga 80%
 📈 Learning impact hingga 85%+
-🤝 Let's Connect
+🤝 Let's Connect <br/>
 
 
 ## Saya terbuka untuk kolaborasi dalam:
 
---- AI Development ---<br/>
---- Automation System ---<br/>
---- Web Application ---
+AI Development <br/>
+Automation System <br/>
+Web Application
 
 
 ## 📬 Feel free to reach out & collaborate!
