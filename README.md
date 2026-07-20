@@ -1,8 +1,9 @@
 # <div align="center">👨‍💻 CHUSNUL ZAMZAMI</div>
 #### <div align="center">Artificial Intelligence Engineer</div>
 
-<div align="center">📍 Aceh Besar, Indonesia • 📧 chusnul.zamzami18@gmail.com
+<div align="center">📍Indonesia • 📧 chusnul.zamzami18@gmail.com
 🔗 https://github.com/chusnulzamzami</div>
+
 
 ## <div align="center">🚀 Tech Stack
 
@@ -30,6 +31,8 @@
 <div align="center"> <a href="#"><img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge"/></a></div>
 
+
+
 ## 🧠 About Me
 
 Saya adalah seorang Artificial Intelligence Engineer yang berfokus pada pengembangan solusi berbasis AI, mulai dari web development (frontend & backend), API, hingga automation workflow.
@@ -37,6 +40,8 @@ Saya adalah seorang Artificial Intelligence Engineer yang berfokus pada pengemba
 Berpengalaman dalam Prompt Engineering (ChatGPT & Gemini AI) serta membangun sistem otomatisasi menggunakan n8n untuk meningkatkan efisiensi dan skalabilitas sistem.
 
 💡 Passionate dalam mengubah ide menjadi solusi nyata menggunakan AI.
+
+
 
 ## 💼 Experience
 ### 🎤 Speaker – Telkom Banda Aceh (2026)
@@ -49,13 +54,17 @@ Mengembangkan solusi berbasis Generative AI & automation
 Meningkatkan efisiensi kerja hingga 90%
 Membangun workflow automation dengan keberhasilan 80%
 Meningkatkan pemahaman AI tim hingga 85%
+
+
 ## 🎓 Education
 
 Universitas Syiah Kuala (USK)
 Diploma Manajemen Informatika (2022 – 2025)
 IPK: 3.72 / 4.00
 
+
 ## 🚀 Core Expertise
+
 AI Application Development
 Workflow Automation (n8n)
 Prompt Engineering & LLM Optimization
@@ -67,11 +76,12 @@ API Integration & System Design
 📈 Learning impact hingga 85%+
 🤝 Let's Connect
 
-Saya terbuka untuk kolaborasi dalam:
 
-AI Development
-Automation System
-Web Application
+## Saya terbuka untuk kolaborasi dalam:
+
+--- AI Development ---
+--- Automation System ---
+--- Web Application ---
 
 ## 📬 Feel free to reach out & collaborate!
 
