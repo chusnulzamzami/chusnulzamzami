@@ -8,10 +8,10 @@
 
 ### <div align="center">🤖 AI & Automation
 
-<a href="#"><img src="https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white"/></a>
+<div align="center"> <a href="#"><img src="https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge"/></a>
-<a href="#"><img src="https://img.shields.io/badge/n8n-Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/></a></div>
+<a href="#"><img src="https://img.shields.io/badge/n8n-Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/></a> </div>
 
 ### <div align="center">💻 Web Development
 
