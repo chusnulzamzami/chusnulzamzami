@@ -32,7 +32,7 @@
 <a href="#"><img src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge"/></a></div>
 
 
-
+<br/>
 ## 🧠 About Me
 
 Saya adalah seorang Artificial Intelligence Engineer yang berfokus pada pengembangan solusi berbasis AI, mulai dari web development (frontend & backend), API, hingga automation workflow.
@@ -42,7 +42,7 @@ Berpengalaman dalam Prompt Engineering (ChatGPT & Gemini AI) serta membangun sis
 💡 Passionate dalam mengubah ide menjadi solusi nyata menggunakan AI.
 
 
-
+<br/>
 ## 💼 Experience
 ### 🎤 Speaker – Telkom Banda Aceh (2026)
 Mengajarkan konsep AI-based development (coding tanpa ngoding)
@@ -55,14 +55,14 @@ Meningkatkan efisiensi kerja hingga 90%
 Membangun workflow automation dengan keberhasilan 80%
 Meningkatkan pemahaman AI tim hingga 85%
 
-
+<br/>
 ## 🎓 Education
 
 Universitas Syiah Kuala (USK)
 Diploma Manajemen Informatika (2022 – 2025)
 IPK: 3.72 / 4.00
 
-
+<br/>
 ## 🚀 Core Expertise
 
 AI Application Development
@@ -76,13 +76,14 @@ API Integration & System Design
 📈 Learning impact hingga 85%+
 🤝 Let's Connect
 
-
+<br/>
 ## Saya terbuka untuk kolaborasi dalam:
 
---- AI Development ---
---- Automation System ---
+--- AI Development ---<br/>
+--- Automation System ---<br/>
 --- Web Application ---
 
+<br/>
 ## 📬 Feel free to reach out & collaborate!
 
 <div align="center">🔥 “Build Smart. Automate Everything. Scale with AI.”</div>
