@@ -1,12 +1,13 @@
 <div align="center">
 👨‍💻 CHUSNUL ZAMZAMI
-Artificial Intelligence Engineer
+🚀 Artificial Intelligence Engineer | Automation & Web Specialist
 
-📍 Aceh Besar, Indonesia • 📧 chusnul.zamzami18@gmail.com
+📍 Aceh Besar, Indonesia
+📧 chusnul.zamzami18@gmail.com
 🔗 https://github.com/chusnulzamzami
 
 </div>
-<div align="center">🚀 Tech Stack</div>
+<div align="center">⚡ CORE TECHNOLOGIES & SKILLS</div>
 <div align="center">
 🤖 AI & Automation
 
@@ -33,49 +34,52 @@ Artificial Intelligence Engineer
 <a href="#"><img src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge"/></a>
 
 </div>
-🧠 About Me
+🧠 PROFESSIONAL SUMMARY
+AI-Driven Development | Automation | Scalable Systems
 
-Saya adalah seorang Artificial Intelligence Engineer yang berfokus pada pengembangan solusi berbasis AI, mulai dari web development (frontend & backend), API, hingga automation workflow.
+Saya adalah seorang Artificial Intelligence Engineer yang berfokus pada pengembangan solusi digital berbasis AI, mencakup frontend, backend, API, dan automation workflow.
 
-Berpengalaman dalam Prompt Engineering (ChatGPT & Gemini AI) serta membangun sistem otomatisasi menggunakan n8n untuk meningkatkan efisiensi dan skalabilitas sistem.
+Berpengalaman dalam Prompt Engineering (ChatGPT & Gemini AI) serta membangun sistem otomatisasi menggunakan n8n untuk meningkatkan efisiensi hingga 90%.
 
-💡 Passionate dalam mengubah ide menjadi solusi nyata menggunakan AI.
+💼 PROFESSIONAL EXPERIENCE
+Real Impact Through AI & Technology
 
-💼 Experience
 🎤 Speaker – Telkom Banda Aceh (2026)
-Mengajarkan konsep AI-based development (coding tanpa ngoding)
-Meningkatkan pemahaman peserta hingga 85%
-80% peserta berhasil membangun solusi mandiri
-Engagement meningkat hingga 90%
+
+Mengajarkan konsep AI-based development
+Meningkatkan pemahaman hingga 85%
+80% peserta berhasil membuat solusi mandiri
+
 🤖 Generative AI Intern – BPVP Banda Aceh (2025)
-Mengembangkan solusi berbasis Generative AI & automation
-Meningkatkan efisiensi kerja hingga 90%
-Membangun workflow automation dengan keberhasilan 80%
-Meningkatkan pemahaman AI tim hingga 85%
-🎓 Education
+
+Mengembangkan solusi berbasis AI & automation
+Efisiensi meningkat hingga 90%
+Workflow success rate hingga 80%
+🎓 EDUCATION
+Academic Excellence & Technical Foundation
 
 Universitas Syiah Kuala (USK)
 Diploma Manajemen Informatika (2022 – 2025)
 IPK: 3.72 / 4.00
 
-🚀 Core Expertise
+🚀 CORE EXPERTISE
+What I Bring to the Table
 AI Application Development
 Workflow Automation (n8n)
 Prompt Engineering & LLM Optimization
 Fullstack Web Development
 API Integration & System Design
-📊 Key Impact
+📊 KEY ACHIEVEMENTS
+Measured Results & Impact
 ⚡ Efisiensi meningkat hingga 90%
 🔁 Automation success rate hingga 80%
 📈 Learning impact hingga 85%+
-🤝 Let's Connect
+🤝 COLLABORATION & OPPORTUNITIES
+Let’s Build Something Great
 
-Saya terbuka untuk kolaborasi dalam:
+Saya terbuka untuk:
 
 AI Development
 Automation System
 Web Application
-
-📬 Feel free to reach out & collaborate!
-
-<div align="center">🔥 “Build Smart. Automate Everything. Scale with AI.”</div>
+<div align="center">🔥 BUILD • AUTOMATE • SCALE WITH AI</div>
