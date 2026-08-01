@@ -44,16 +44,16 @@ Berpengalaman dalam Prompt Engineering (ChatGPT & Gemini AI) serta membangun sis
 
 
 ## 💼 Experience
-### 🎤 Speaker – Telkom Banda Aceh (2026)
-Mengajarkan konsep AI-based development (coding tanpa ngoding)
-Meningkatkan pemahaman peserta hingga 85%
-80% peserta berhasil membangun solusi mandiri
-Engagement meningkat hingga 90%
-### 🤖 Generative AI Intern – BPVP Banda Aceh (2025)
-Mengembangkan solusi berbasis Generative AI & automation
-Meningkatkan efisiensi kerja hingga 90%
-Membangun workflow automation dengan keberhasilan 80%
-Meningkatkan pemahaman AI tim hingga 85%  <br/>
+#### 🎤 Speaker – Telkom Banda Aceh (2026)
+- Teaching the concept of AI-based development (coding without manual coding)/n
+- Increasing participant understanding to 85%/n
+- 80% of participants successfully built independent solutions/n
+  Engagement increased to 90%
+#### 🤖 Generative AI Intern – BPVP Banda Aceh (2025)
+- Developing solutions based on Generative AI and automation/n
+- Increasing work efficiency by up to 90%/n
+- Building workflow automation with an 80% success rate/n
+- Improving the team's understanding of AI by up to 85%/n <br/>
 
 
 ## 🎓 Education
