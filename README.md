@@ -2,7 +2,7 @@
 #### <div align="center">Artificial Intelligence Engineer</div>
 
 <div align="center">📍Indonesia • 📧 chusnul.zamzami18@gmail.com
-🔗 https://github.com/chusnulzamzami</div>
+🔗 [https://github.com/chusnulzamzami](https://www.linkedin.com/in/chusnul-zamzami-06a8573a8/)</div>
 
 
 ## <div align="center">🚀 Tech Stack
@@ -58,9 +58,9 @@ I have experience in Prompt Engineering (ChatGPT & Gemini AI) and building autom
 
 ## 🎓 Education
 
-Universitas Syiah Kuala (USK) <br/>
-Diploma Manajemen Informatika (2022 – 2025)<br/>
-IPK: 3.72 / 4.00
+Syiah Kuala University (USK) <br/>
+Diploma in Information Management (2022 – 2025)<br/>
+GPA: 3.72 / 4.00
 
 
 ## 🚀 Core Expertise
