@@ -58,23 +58,24 @@ I have experience in Prompt Engineering (ChatGPT & Gemini AI) and building autom
 
 ## 🎓 Education
 
-Universitas Syiah Kuala (USK)
-Diploma Manajemen Informatika (2022 – 2025)
-IPK: 3.72 / 4.00 <br/>
+Universitas Syiah Kuala (USK) <br/>
+Diploma Manajemen Informatika (2022 – 2025)<br/>
+IPK: 3.72 / 4.00
 
 
 ## 🚀 Core Expertise
 
-AI Application Development
-Workflow Automation (n8n)
-Prompt Engineering & LLM Optimization
-Fullstack Web Development
-API Integration & System Design
-📊 Key Impact
-⚡ Efficiency increases up to 90%
-🔁 Automation success rate up to 80%
-📈 Learning impact up to 85%+
-🤝 Let's Connect <br/>
+- AI Application Development
+- Workflow Automation (n8n)
+- Prompt Engineering & LLM Optimization
+- Fullstack Web Development
+- API Integration & System Design
+  
+- 📊 Key Impact
+- ⚡ Efficiency increases up to 90%
+- 🔁 Automation success rate up to 80%
+- 📈 Learning impact up to 85%+
+- 🤝 Let's Connect <br/>
 
 
 ## I am open to collaborations in:
