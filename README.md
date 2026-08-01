@@ -2,7 +2,7 @@
 #### <div align="center">Artificial Intelligence Engineer</div>
 
 <div align="center">📍Indonesia • 📧 chusnul.zamzami18@gmail.com
-🔗 [https://github.com/chusnulzamzami](https://www.linkedin.com/in/chusnul-zamzami-06a8573a8/)</div>
+🔗 https://www.linkedin.com/in/chusnul-zamzami-06a8573a8/</div>
 
 
 ## <div align="center">🚀 Tech Stack
