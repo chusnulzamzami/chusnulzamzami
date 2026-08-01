@@ -35,24 +35,24 @@
 
 ## 🧠 About Me
 
-Saya adalah seorang Artificial Intelligence Engineer yang berfokus pada pengembangan solusi berbasis AI, mulai dari web development (frontend & backend), API, hingga automation workflow.
+I am an Artificial Intelligence Engineer focused on developing AI-driven solutions, ranging from web development (frontend & backend) and APIs to workflow automation.
 
-Berpengalaman dalam Prompt Engineering (ChatGPT & Gemini AI) serta membangun sistem otomatisasi menggunakan n8n untuk meningkatkan efisiensi dan skalabilitas sistem.
+I have experience in Prompt Engineering (ChatGPT & Gemini AI) and building automation systems using n8n to enhance system efficiency and scalability.
 
-💡 Passionate dalam mengubah ide menjadi solusi nyata menggunakan AI.<br/>
+💡 Passionate about transforming ideas into real-world solutions using AI.<br/>
 
 
 
 ## 💼 Experience
 #### 🎤 Speaker – Telkom Banda Aceh (2026)
-- Teaching the concept of AI-based development (coding without manual coding)/n
-- Increasing participant understanding to 85%/n
-- 80% of participants successfully built independent solutions/n
+- Teaching the concept of AI-based development (coding without manual coding)
+- Increasing participant understanding to 85%
+- 80% of participants successfully built independent solutions
   Engagement increased to 90%
 #### 🤖 Generative AI Intern – BPVP Banda Aceh (2025)
-- Developing solutions based on Generative AI and automation/n
-- Increasing work efficiency by up to 90%/n
-- Building workflow automation with an 80% success rate/n
+- Developing solutions based on Generative AI and automation
+- Increasing work efficiency by up to 90%
+- Building workflow automation with an 80% success rate
 - Improving the team's understanding of AI by up to 85%/n <br/>
 
 
@@ -71,13 +71,13 @@ Prompt Engineering & LLM Optimization
 Fullstack Web Development
 API Integration & System Design
 📊 Key Impact
-⚡ Efisiensi meningkat hingga 90%
-🔁 Automation success rate hingga 80%
-📈 Learning impact hingga 85%+
+⚡ Efficiency increases up to 90%
+🔁 Automation success rate up to 80%
+📈 Learning impact up to 85%+
 🤝 Let's Connect <br/>
 
 
-## Saya terbuka untuk kolaborasi dalam:
+## I am open to collaborations in:
 
 AI Development <br/>
 Automation System <br/>
